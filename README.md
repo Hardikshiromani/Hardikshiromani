@@ -12,5 +12,5 @@
 - **Other:** Git, GitHub, REST APIs, Socket.io  
 
 🌐 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/hardik-shiromani) 
+- 💼 [LinkedIn](www.linkedin.com/in/hardik-shiromani123) 
 - 🐦 [Twitter](https://x.com/Hardik_1014) 
